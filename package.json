@@ -1,6 +1,6 @@
 {
   "name": "@suplere/dexie-graphql-replication",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Implement for DEXIE and graphql replication",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

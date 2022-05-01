@@ -25,6 +25,5 @@ jobs:
       - name: publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-          READTOKEN: ${{ secrets.READTOKEN }}
         run: |
           npm run deploy
